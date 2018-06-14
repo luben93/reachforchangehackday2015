@@ -1,0 +1,48 @@
+
+------------ Vintage Text Effect --------------
+
+
+Features:
+
+- 1 PSD File
+- 2000x1500 px
+- 300 dpi
+- Fully Editable
+- Easy to use
+- Well organised
+- Smart object layers
+
+
+--------------------->
+
+
+HOW IT WORKS:
+
+Open the text effect you wish to use. In the layers pannel there is 1 layer called "Text effect - double click thumbnail to edit", Double click the 
+layer thumbnail or right click on the layer and select "Edit Contents". A message will appear, click "OK". A new window will open, replace the text 
+with your own or use a different font and then close the window, a message will appear asking if you want to save, click "Yes" and you are done!
+
+It also works with vector shapes, logos etc.
+
+The folders have vector masks on. If you don't want texture on your text effect then just right click on the mask and select "Disable mask" or even delete.
+
+Use the Hue/Saturation Adjustment to change the background color. Double click the thumbnail of the adjustment layer called "Change Background Color" to edit.
+
+
+____________________________________________________________________
+
+
+Free font used:
+
+http://www.dafont.com/thirsty-script.font
+
+
+
+                  
+         
+           
+         
+         
+
+
+

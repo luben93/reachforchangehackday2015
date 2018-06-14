@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:fitsSystemWindows="true"
+        tools:context=".MainActivity"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal">
+
+    <GridLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:columnCount="10"
+        android:rowCount="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_column="1"
+            android:layout_columnSpan="1"
+            android:layout_columnWeight="0.1"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats1"
+                android:id="@+id/button1"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats2"
+                android:id="@+id/button2"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats3"
+                android:id="@+id/button3"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats4"
+                android:id="@+id/button4"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats5"
+                android:id="@+id/button5"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats6"
+                android:id="@+id/button6"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Hats7"
+                android:id="@+id/button7"/>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/hero"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+
+        <ImageView
+            android:id="@+id/hats"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/skins"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/eyes"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/outfits"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/hairs"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/capes"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+        <ImageView
+            android:id="@+id/letters"
+            android:layout_column="2"
+            android:layout_columnSpan="2"
+            android:layout_row="0"
+            android:layout_height="match_parent"
+            android:layout_columnWeight="2"
+            android:src="@drawable/grayhero"
+            android:contentDescription="@string/hero" />
+
+        <LinearLayout
+            android:layout_column="4"
+            android:layout_row="0"
+            android:layout_columnSpan="2"
+            android:layout_columnWeight="1"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/hat1"
+                android:src="@drawable/mask1"
+                android:contentDescription="@string/mask1" />
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/hat2"
+                android:contentDescription="@string/mask2"
+                android:src="@drawable/mask2"/>
+            <ImageButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/hat3"
+                android:contentDescription="@string/mask3"
+                android:src="@drawable/mask3"/>
+
+        </LinearLayout>
+    </GridLayout>
+
+    <ImageView
+            android:id="@+id/bg"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:src="@drawable/backgrundpng"
+            android:contentDescription="@string/hero" />
+
+</LinearLayout>
+

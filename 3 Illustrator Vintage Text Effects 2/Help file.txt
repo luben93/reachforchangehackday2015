@@ -1,0 +1,36 @@
+10 Logo Graphic Styles #17 by Vlad Cristea
+http://graphicriver.net/user/cicone
+
+-------
+
+How to use:
+ 
+Option 1 - Open the Ai and go to "Window > Graphic Styles"
+	Select your logo, text and click on a style.
+	Before you scale just go to " Edit > Preferences > General",
+	check "Scale Strokes & Effects" (You can play with this)
+                
+Option 2 - Choose Window > Graphic Style Libraries > Other Library and open "10 Logo Graphic Styles"
+	The graphic styles will appear in a new graphic style library panel .
+	Select your logo, text and click on a style.
+
+Option 3 - Just select existing text, and replace it with yours. Be careful you need to have all fonts installed on your computer.
+
+-------
+ 
+Font used:
+
+League Gothic - http://www.fontsquirrel.com/fonts/league-gothic
+Broadway Regular - http://www.font-zone.com/download_start.php?fid=2584
+Magneto Bold - http://fontzone.net/download/magneto-bold
+
+-------
+
+FOR ANY ADDITIONAL SUPPORT OR QUESTION JUST CONTACT ME  
+
+http://graphicriver.net/user/cicone
+
+
+
+
+
